@@ -10,6 +10,4 @@ API 2 - Información del Artista: "https://www.theaudiodb.com"
 
 1 - Clonar el repositorio  
 2 - npm install  
-3 - npm run dev  
-4 - npm i react-swipeable-list  
-5 - npm i prop-types
+3 - npm run dev
