@@ -21,3 +21,4 @@ API 2 - Información del Artista: "https://www.theaudiodb.com"
 1 - Clonar el repositorio  
 2 - npm install  
 3 - npm run dev
+4 - npm install axios
